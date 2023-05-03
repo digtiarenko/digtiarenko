@@ -1,6 +1,6 @@
 
 - 👋 Hi, I’m @digtiarenko. Media guy goes IT
-- 🌱 I’m a junior React, Node.JS developer
+- 🌱 I’m a Full stack React, Node.JS developer
 - 📫 Get to know me: [https://digtiarenko.github.io/portfolio/]
 
 [![My Skills](https://skillicons.dev/icons?i=git,heroku,css,html,sass,js,ts,styledcomponents,react,redux,mongodb,nodejs,netlify,firebase,figma&theme=dark)](https://skillicons.dev)
